@@ -122,12 +122,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="[XXX](https://prospect-it.com/)" target="_blank">
+  <a href="https://prospect-it.com/" target="_blank">
     PROSPECT-IT - Ne manquez plus jamais un prospect !
   </a>
 </p>
 <p align="center">
-  <a href="[XXX](https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6)" target="_blank">
+  <a href="https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6" target="_blank">
     CHATGPT 4 - Découverte et compréhensino facile pour grand public
   </a>
 </p>
