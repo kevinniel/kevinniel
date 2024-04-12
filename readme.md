@@ -54,7 +54,7 @@
  # A propos de mois
  
 <p>
- <img align="right" width="350" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
+ <img align="right" width="250" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
   
  ✌️ &emsp; Je suis prof d'informatique de BAC+1 à BAC+5
  ❤️ &emsp; J'enseigne le développement web et la gestion de projet<br/><br/>
