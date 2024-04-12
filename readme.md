@@ -21,17 +21,17 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        <samp>&gt; Salut!, moi c'est
+                <b><a target="_blank" href="https://kevinniel.fr">Kévin NIEL</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="https://kevinniel.fr">「 Mon site 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 Je suis un professeur d'informatique qui vient de <b>France</b> 」
     <br>
     <br>
   </samp>
