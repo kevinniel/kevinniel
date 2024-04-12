@@ -110,10 +110,10 @@
 <br/>
 
 ## Mes tops projets -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+- [MICROLEAD - Le site gratuit de formation continue en informatique](https://microlead.fr/)
+- [NK INFORMATIQUE - Formation, développement, graphisme et audit](https://nkinformatique.com/)
+- [PROSPECT-IT - Ne manquez plus jamais un prospect !](https://prospect-it.com/)
+- [CHATGPT 4 - Découverte et compréhensino facile pour grand public](https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6)
 
 <br/>
 <hr/>
