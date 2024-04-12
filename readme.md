@@ -27,10 +27,10 @@
  <a href="https://kevinniel.fr" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Kévin NIEL" />
  </a>
- <a href="[https://linkedin.com/in/kevinniel](https://www.linkedin.com/in/kevinniel/)" target="_blank">
+ <a href="https://www.linkedin.com/in/kevinniel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kévin NIEL"/>
  </a>
- <a href="[https://twitter.com/kevinniel49](https://twitter.com/kevinniel49)" target="_blank">
+ <a href="https://twitter.com/kevinniel49" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
 </p>
@@ -42,7 +42,7 @@
 <p>
  <img align="right" width="250" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
   
- ✌️ &emsp; Je suis prof d'informatique de BAC+1 à BAC+5
+ ✌️ &emsp; Je suis prof d'informatique de BAC+1 à BAC+5<br/><br/>
  ❤️ &emsp; J'enseigne le développement web et la gestion de projet<br/><br/>
  📧 &emsp; Je suis Jury officiel sur 4 titres BAC+3 du ministère du travail<br/><br/>
  💬 &emsp; Vous pouvez me poser toutes vos questions [ici](https://linkedin.com/in/kevinniel)
