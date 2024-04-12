@@ -115,21 +115,22 @@
   <a href="https://microlead.fr/" target="_blank">
     MICROLEAD - Le site gratuit de formation continue en informatique
   </a>
-  <a href="https://microlead.fr/" target="_blank">
-    MICROLEAD - Le site gratuit de formation continue en informatique
-  </a>
-  <a href="https://microlead.fr/" target="_blank">
-    MICROLEAD - Le site gratuit de formation continue en informatique
-  </a>
-  <a href="https://microlead.fr/" target="_blank">
-    MICROLEAD - Le site gratuit de formation continue en informatique
+</p>
+<p align="center">
+  <a href="https://nkinformatique.com/" target="_blank">
+    NK INFORMATIQUE - Formation, développement, graphisme et audit
   </a>
 </p>
-
-- [MICROLEAD - Le site gratuit de formation continue en informatique](https://microlead.fr/)
-- [NK INFORMATIQUE - Formation, développement, graphisme et audit](https://nkinformatique.com/)
-- [PROSPECT-IT - Ne manquez plus jamais un prospect !](https://prospect-it.com/)
-- [CHATGPT 4 - Découverte et compréhensino facile pour grand public](https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6)
+<p align="center">
+  <a href="[XXX](https://prospect-it.com/)" target="_blank">
+    PROSPECT-IT - Ne manquez plus jamais un prospect !
+  </a>
+</p>
+<p align="center">
+  <a href="[XXX](https://www.amazon.fr/Chat-GPT-exploiter-lIntelligence-Artificielle/dp/B0C1JJTJJ6)" target="_blank">
+    CHATGPT 4 - Découverte et compréhensino facile pour grand public
+  </a>
+</p>
 
 <br/>
 <hr/>
