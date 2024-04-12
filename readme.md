@@ -109,7 +109,23 @@
 
 <br/>
 
-## Mes tops projets -
+## Mes tops projets
+
+<p align="center">
+  <a href="https://microlead.fr/" target="_blank">
+    MICROLEAD - Le site gratuit de formation continue en informatique
+  </a>
+  <a href="https://microlead.fr/" target="_blank">
+    MICROLEAD - Le site gratuit de formation continue en informatique
+  </a>
+  <a href="https://microlead.fr/" target="_blank">
+    MICROLEAD - Le site gratuit de formation continue en informatique
+  </a>
+  <a href="https://microlead.fr/" target="_blank">
+    MICROLEAD - Le site gratuit de formation continue en informatique
+  </a>
+</p>
+
 - [MICROLEAD - Le site gratuit de formation continue en informatique](https://microlead.fr/)
 - [NK INFORMATIQUE - Formation, développement, graphisme et audit](https://nkinformatique.com/)
 - [PROSPECT-IT - Ne manquez plus jamais un prospect !](https://prospect-it.com/)
