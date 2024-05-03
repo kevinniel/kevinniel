@@ -37,7 +37,7 @@
 <br />
 
 <!-- About Section -->
- # A propos de mois
+ # A propos de moi
  
 <p>
  <img align="right" width="200" src="/assets/kevinniel.jpeg" alt="Kévin NIEL" />
